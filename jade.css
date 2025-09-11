@@ -1,0 +1,25 @@
+h1{
+    margin-left: 10%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+*{
+   color: gold
+}
+
+body{
+    background-color: rgb(27, 2, 2);
+    font-family: 'Times New Roman', Times, serif;
+    justify-content:space-between;
+}
+
+nav{
+    justify-content: space-between;
+    align-content: center;
+    margin-top: 10%;
+    border-left: none;
+    border-right: none;
+    display: flex;
+}
