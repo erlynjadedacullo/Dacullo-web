@@ -1,8 +1,9 @@
 function login(){
-  let email = document.getElementById("email").value;
-console.log("Your enter the email: " + email);
+    if (email==="erlynjade@gmail.com" && password==="rlyshin10"
+    )         
+    console.log("your email and password is correct");
+     
 
-
-  
-}
+         }
+ 
 
